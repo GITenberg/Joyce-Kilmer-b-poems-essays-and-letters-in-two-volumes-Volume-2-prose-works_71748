@@ -1,0 +1,41 @@
+_repo: Joyce-Kilmer-b-poems-essays-and-letters-in-two-volumes-Volume-2-prose-works_71748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilmer, Joyce
+    alias: Kilmer, Alfred Joyce
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '149'
+    url: http://www.gutenberg.org/2009/agents/149
+    wikipedia: https://en.wikipedia.org/wiki/Joyce_Kilmer
+  editor:
+    agent_name: Holliday, Robert Cortes
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5191'
+    url: http://www.gutenberg.org/2009/agents/5191
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Cortes_Holliday
+description: ''
+gutenberg_issued: '2023-09-28'
+identifiers:
+  gutenberg: '71748'
+language: en
+pgterms:marc905: 20200721020450kilmer
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bGeorge H. Doran, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature'
+- !lcsh 'American essays'
+- !lcsh 'Kilmer, Joyce, 1886-1918 -- Correspondence'
+- !lcc 'PS'
+- GITenberg
+title: 'Joyce Kilmer : $b poems, essays and letters in two volumes. Volume 2, prose
+  works'
+url: http://www.gutenberg.org/ebooks/71748
